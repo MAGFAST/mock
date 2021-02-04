@@ -1,0 +1,37 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "first": "Bryan",
+      "last": "Lemon",
+      "address1": "1317 Midtown Village Dr",
+      "address2": "",
+      "city": "Conway",
+      "state": "SC",
+      "postalcode": "29526",
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "first": "Prime",
+      "last": "Minister",
+      "address1": "10 Downing St",
+      "address2": "",
+      "city": "London",
+      "state": "",
+      "postalcode": "SW1A 2AA",
+      "country": "GBR"
+    },
+    {
+      "id": 3,
+      "first": "John",
+      "last": "Jones",
+      "address1": "10-123 1/2 Main Street NW",
+      "address2": "",
+      "city": "Montreal",
+      "state": "QC",
+      "postalcode": "CAN",
+      "country": "H3Z 2Y7"
+    }
+  ]
+}
